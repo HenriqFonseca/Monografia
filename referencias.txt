@@ -53,3 +53,5 @@ LEWIS, Joseph R.; MOSCOVITZ, Meitar. Css avançado. Tradução de Edgard B, p. 1
 BOOTSTRAP - https://revista.fatectq.edu.br/interfacetecnologica/article/view/785/457
 
 NORMALIZAÇÃO - https://www.ic.unicamp.br/~santanch/teaching/db/2013-2/slides/bd07-normalizacao-v02.pdf
+
+AJAX - http://marcio.belo.nom.br/wordpress/wp-content/uploads/2010/01/ajax_desmistificado.pdf
